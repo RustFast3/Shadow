@@ -24,9 +24,9 @@ function draw() {
   strokeWeight(4);
   triangle(90,bello,290,250,340,485);
   fill(145,300,210);
-  textSize(100);
+  textSize(40);
   textFont('Impact');
-  text('Hello',200,100);
+  text('I am always HERE!',200,100);
 
 }
 
